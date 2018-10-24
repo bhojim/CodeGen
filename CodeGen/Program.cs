@@ -8,11 +8,6 @@ namespace CodeGen
 {
     static class Program
     {
-        // <copyright file="Program" company="Dotnetcomp.com">
-        // Copyright (c) 2016 All Rights Reserved
-        // <author>Bernard Ho-Jim</author>
-        // </copyright>
-      
         /// <summary>
         /// The main entry point for the application.
         /// </summary>

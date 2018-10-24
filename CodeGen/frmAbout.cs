@@ -20,11 +20,11 @@ namespace CodeGen
 
         private void frmAbout_Load(object sender, EventArgs e)
         {
-            AssemblyInfo entryAssemblyInfo = new AssemblyInfo(Assembly.GetEntryAssembly());
-            lblProduct.Text = entryAssemblyInfo.Product;
-            lblDescription.Text = entryAssemblyInfo.Description;
-            lblVersion.Text = "Version " + entryAssemblyInfo.Version;
-            lblCopyright.Text = entryAssemblyInfo.Copyright;
+            //AssemblyInfo entryAssemblyInfo = new AssemblyInfo(Assembly.GetEntryAssembly());
+            //lblProduct.Text = entryAssemblyInfo.Product;
+            //lblDescription.Text = entryAssemblyInfo.Description;
+            //lblVersion.Text = "Version " + entryAssemblyInfo.Version;
+            //lblCopyright.Text = entryAssemblyInfo.Copyright;
 
             //var assembly = Assembly.GetExecutingAssembly();
             //// Display assembly description
